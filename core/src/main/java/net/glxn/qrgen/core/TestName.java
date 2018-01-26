@@ -1,6 +1,6 @@
 class TestName
 {
-  public String developerName = "Prasenjeet paul";
+  public String developerName = "Prasenjeet Paul";
   
   public String getName()
   {
