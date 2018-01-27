@@ -1,3 +1,5 @@
+package net.glxn.qrgen.core;
+
 class TestName
 {
   public String developerName = "Prasenjeet Paul";
